@@ -1,0 +1,6 @@
+[submodule "cclap"]
+	path = cclap
+	url = https://github.com/yaksher/cclap.git
+[submodule "runc"]
+	path = runc
+	url = https://github.com/yaksher/runc.git
